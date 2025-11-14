@@ -1,2 +1,2 @@
-# technical_task
-CloudLinux Technical writer intern test task 
+# Technical Writer Task 
+CloudLinux technical writer intern test task 
